@@ -1,4 +1,4 @@
-# offprint-io
+# Offprint
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,156 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-offprint-io is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://offprint.io/
+Offprint provides a platform for publishing and reviewing AI agent output as documents. Users can share links, collect inline comments, track revisions, and integrate with AI assistants like Claude, ChatGPT, or Cursor via MCP. The service offers free accounts, OAuth sign‑in, unlisted public links, and versioned document history, enabling collaborative AI‑generated content workflows.
+
+**Areas:** AI · Document Publishing · Collaboration · MCP · Free
+
+## Offprint on APIs.io
+
+Everything profiled for Offprint is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/offprint-io/](https://apis.io/providers/offprint-io/)** — or go straight to one of the APIs or properties below.
+
+### APIs (23)
+
+- [Offprint Approve API](https://apis.io/apis/offprint-io/offprint-io-approve-api/) — The Approve API from Offprint — 1 operation(s) for approve.
+- [Offprint Comment On Passage API](https://apis.io/apis/offprint-io/offprint-io-comment-on-passage-api/) — The Comment On Passage API from Offprint — 1 operation(s) for comment on passage.
+- [Offprint Create Directory API](https://apis.io/apis/offprint-io/offprint-io-create-directory-api/) — The Create Directory API from Offprint — 1 operation(s) for create directory.
+- [Offprint Create Project API](https://apis.io/apis/offprint-io/offprint-io-create-project-api/) — The Create Project API from Offprint — 1 operation(s) for create project.
+- [Offprint Delete Document API](https://apis.io/apis/offprint-io/offprint-io-delete-document-api/) — The Delete Document API from Offprint — 1 operation(s) for delete document.
+- [Offprint Diff Document API](https://apis.io/apis/offprint-io/offprint-io-diff-document-api/) — The Diff Document API from Offprint — 1 operation(s) for diff document.
+- [Offprint Get Document API](https://apis.io/apis/offprint-io/offprint-io-get-document-api/) — The Get Document API from Offprint — 1 operation(s) for get document.
+- [Offprint Get Feedback API](https://apis.io/apis/offprint-io/offprint-io-get-feedback-api/) — The Get Feedback API from Offprint — 1 operation(s) for get feedback.
+- [Offprint Get Project API](https://apis.io/apis/offprint-io/offprint-io-get-project-api/) — The Get Project API from Offprint — 1 operation(s) for get project.
+- [Offprint Get Review State API](https://apis.io/apis/offprint-io/offprint-io-get-review-state-api/) — The Get Review State API from Offprint — 1 operation(s) for get review state.
+- [Offprint List Collaborators API](https://apis.io/apis/offprint-io/offprint-io-list-collaborators-api/) — The List Collaborators API from Offprint — 1 operation(s) for list collaborators.
+- [Offprint List Comments API](https://apis.io/apis/offprint-io/offprint-io-list-comments-api/) — The List Comments API from Offprint — 1 operation(s) for list comments.
+- [Offprint List Documents API](https://apis.io/apis/offprint-io/offprint-io-list-documents-api/) — The List Documents API from Offprint — 1 operation(s) for list documents.
+- [Offprint List Projects API](https://apis.io/apis/offprint-io/offprint-io-list-projects-api/) — The List Projects API from Offprint — 1 operation(s) for list projects.
+- [Offprint Move Document API](https://apis.io/apis/offprint-io/offprint-io-move-document-api/) — The Move Document API from Offprint — 1 operation(s) for move document.
+- [Offprint Publish Document API](https://apis.io/apis/offprint-io/offprint-io-publish-document-api/) — The Publish Document API from Offprint — 1 operation(s) for publish document.
+- [Offprint Reply To Comment API](https://apis.io/apis/offprint-io/offprint-io-reply-to-comment-api/) — The Reply To Comment API from Offprint — 1 operation(s) for reply to comment.
+- [Offprint Request Changes API](https://apis.io/apis/offprint-io/offprint-io-request-changes-api/) — The Request Changes API from Offprint — 1 operation(s) for request changes.
+- [Offprint Request Review API](https://apis.io/apis/offprint-io/offprint-io-request-review-api/) — The Request Review API from Offprint — 1 operation(s) for request review.
+- [Offprint Resolve Comment API](https://apis.io/apis/offprint-io/offprint-io-resolve-comment-api/) — The Resolve Comment API from Offprint — 1 operation(s) for resolve comment.
+- [Offprint Set Document Url API](https://apis.io/apis/offprint-io/offprint-io-set-document-url-api/) — The Set Document Url API from Offprint — 1 operation(s) for set document url.
+- [Offprint Update Document API](https://apis.io/apis/offprint-io/offprint-io-update-document-api/) — The Update Document API from Offprint — 1 operation(s) for update document.
+- [Offprint Whoami API](https://apis.io/apis/offprint-io/offprint-io-whoami-api/) — The Whoami API from Offprint — 1 operation(s) for whoami.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### AsyncAPI (1)
+
+Event-driven and webhook contracts.
+
+- [Offprint Io Webhooks](https://apis.io/asyncapis/offprint-io/offprint-io-webhooks/)
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Offprint Agentic Access](https://apis.io/agentic-access/offprint-io/offprint-io-agentic-access/)
+
+#### JSON Schema (1)
+
+The data models the API reads and writes.
+
+- [__schema0](https://apis.io/schemas/offprint-io/offprint-io-schema0/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Offprint Io Context](https://apis.io/jsonld/offprint-io/offprint-io-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Offprint API Rules](https://apis.io/rules/offprint-io/offprint-io-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Offprint Authentication](https://apis.io/security/offprint-io/offprint-io-authentication/)
+- [Offprint Domain Security](https://apis.io/security/offprint-io/offprint-io-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Offprint Plans Pricing](https://apis.io/plans/offprint-io/offprint-io-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Offprint Rate Limits](https://apis.io/rate-limits/offprint-io/offprint-io-rate-limits/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://offprint.io/)
+- [Documentation](https://offprint.io/guides)
+- [API reference](https://offprint.io/llms.txt)
+- [Pricing](https://offprint.io/pricing)
+- [Terms of service](https://offprint.io/terms)
+- [Privacy policy](https://offprint.io/privacy)
+
+## API Evangelist rating
+
+**Kin Score 59.7** — strong · rubric 0.27.0 · scored 2026-11-19
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 61.2 |
+| Contract governance | 79.1 |
+| Operational transparency | 52.1 |
+| Developer ergonomics | 28.6 |
+| Access clarity | 73.2 |
+
+**Agent readiness 55.9** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | verified |
+| OpenAPI Examples | partial |
+| Rate Limit Signal | documented (partial credit) |
+| Event Surface Described | unknown |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 22.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/offprint-io/](https://apis.io/providers/offprint-io/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Offprint: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/offprint-io/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
